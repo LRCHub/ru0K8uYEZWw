@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "CAN'T STOP THE FEELING!",
+  "base_artist": "Justin Timberlake",
+  "createdAt": "2025-12-08T05:48:22.191145Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Can't Stop The Feeling",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/01_Can't_Stop_The_Feeling_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Can't Stop the Feeling",
+      "artist": "J.Fla",
+      "has_synced": true,
+      "path": "select/02_Can't_Stop_the_Feeling_J.Fla.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "CAN'T STOP THE FEELING!",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/03_CAN'T_STOP_THE_FEELING!_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Can't Stop The Feeling!",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/04_Can't_Stop_The_Feeling!_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Can’t Stop The Feeling!",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/05_Can’t_Stop_The_Feeling!_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Can't Stop The Feeling!",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/06_Can't_Stop_The_Feeling!_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Can’t Stop The Feeling",
+      "artist": "Take 6",
+      "has_synced": false,
+      "path": "select/07_Can’t_Stop_The_Feeling_Take_6.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Can't Stop The Feeling!",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/08_Can't_Stop_The_Feeling!_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "CAN'T STOP THE FEELING!",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/09_CAN'T_STOP_THE_FEELING!_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Can't Stop The Feeling",
+      "artist": "Justin Timerlake",
+      "has_synced": true,
+      "path": "select/10_Can't_Stop_The_Feeling_Justin_Timerlake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Can't Stop the Feeling",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/11_Can't_Stop_the_Feeling_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "CAN'T STOP THE FEELING!",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/12_CAN'T_STOP_THE_FEELING!_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Can't Stop the Feeling!",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/13_Can't_Stop_the_Feeling!_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Can't Stop The Feeling!",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/14_Can't_Stop_The_Feeling!_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "CAN'T STOP THE FEELING!",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/15_CAN'T_STOP_THE_FEELING!_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Can't Stop the Feeling",
+      "artist": "Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/16_Can't_Stop_the_Feeling_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "CAN'T STOP THE FEELING!",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/17_CAN'T_STOP_THE_FEELING!_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Can't Stop The Feeling!",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/18_Can't_Stop_The_Feeling!_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Can’t Stop The Feeling!",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/19_Can’t_Stop_The_Feeling!_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CAN'T STOP THE FEELING!",
+      "artist": "Justin Timberlake",
+      "has_synced": false,
+      "path": "select/pl_01_CAN'T_STOP_THE_FEELING!_Justin_Timberlake.txt"
+    }
+  ]
+}
